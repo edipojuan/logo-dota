@@ -1,2 +1,2 @@
-# logo_dota
-Logo do dota usando apenas html e css.
+# Logo do Dota 2
+Logo do dota 2 utilizando apenas html e css.
